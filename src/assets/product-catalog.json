@@ -1573,6 +1573,62 @@
     "conventionalRate": null,
     "percentAI": 0.2,
     "eiqPerHa_atSheetRate": 2.4000000000001
-  }
+  },
+   "STARTOP": {
+    "id": "STARTOP",
+    "name": "STARTOP",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.6,
+    "conventionalRate": null,
+    "percentAI": 0.2,
+    "eiqPerHa_atSheetRate": 10.2000000000001
+   },
+    "HIGHNESS": {
+    "id": "HIGHNESS",
+    "name": "HIGHNESS",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.16,
+    "conventionalRate": null,
+    "percentAI": 0.2,
+    "eiqPerHa_atSheetRate": 3.6000000000001
+   },
+    "LINX": {
+    "id": "LINX",
+    "name": "LINX",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.6,
+    "conventionalRate": null,
+    "percentAI": 0.2,
+    "eiqPerHa_atSheetRate": 12.7000000000001
+   },
+   "LIRIOMYZA DELEGATE": {
+    "id": "LIRIOMYZA DELEGATE",
+    "name": "LIRIOMYZA DELEGATE",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.15,
+    "conventionalRate": null,
+    "percentAI": 0.2,
+    "eiqPerHa_atSheetRate": 2.3000000000001
+   },
+   "LIRIOMYZA VIRANTRA": {
+    "id": "LIRIOMYZA VIRANTRA",
+    "name": "LIRIOMYZA VIRANTRA",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.15,
+    "conventionalRate": null,
+    "percentAI": 0.2,
+    "eiqPerHa_atSheetRate": 10.4000000000001
+   },
+   "HARPON": {
+    "id": "HARPON",
+    "name": "HARPON",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.4,
+    "conventionalRate": null,
+    "percentAI": 0.2,
+    "eiqPerHa_atSheetRate": 16.8000000000001
    }
+   }
+   
+   
 
