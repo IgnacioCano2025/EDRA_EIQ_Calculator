@@ -2,7 +2,9 @@ import { useEiqStore } from '@/state/store'
 
 export default function ProductPicker({ onSelect }: { onSelect: (productId: string) => void }) {
   const { catalogs } = useEiqStore()
-  const products = Object.values(catalogs.products || {})
+  const products = Object.values(catalogs.products || {}).sort((a, b) =>
+  a.name.localeCompare(b.name, 'es', { sensitivity: 'base' })
+)
   if (!products.length) return null
   return (
     <div className="flex items-center gap-2">
