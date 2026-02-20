@@ -1564,5 +1564,15 @@
     "conventionalRate": null,
     "percentAI": 0.4,
     "eiqPerHa_atSheetRate": 21.15776328414
+  },
+  "LEIMAY": {
+    "id": "LEIMAY",
+    "name": "LEIMAY",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.5,
+    "conventionalRate": null,
+    "percentAI": 0.2,
+    "eiqPerHa_atSheetRate": 2.4000000000001
   }
-}
+   }
+
